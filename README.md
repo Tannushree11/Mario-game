@@ -1,2 +1,2 @@
-# Mario-game
-Game of Mario
+# collisionAlgorithm
+Algorithm to detect collision between two objects
